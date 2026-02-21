@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Alumify",
+    "slug": "alumify",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "scheme": "alumify",
+    "newArchEnabled": true,
+    "ios": { "bundleIdentifier": "app.alumify.demo" },
+    "android": { "package": "app.alumify.demo" }
+  }
+}
